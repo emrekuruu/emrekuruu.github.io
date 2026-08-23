@@ -71,6 +71,7 @@ latest_posts:
   #kuru2026retrievalrouter .links a[href*="#paper"] { font-size: 0; }
   #kuru2026retrievalrouter .links a[href*="#paper"]::after { font-size: 0.75rem; }
   #kuru2026retrievalrouter .periodical { display: none; }
+  .social .contact-icons { font-size: 3.3rem; }
   .contact-icons a[title="Hugging Face"] img {
     width: 4.6rem;
     height: 4.6rem;
