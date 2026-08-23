@@ -8,6 +8,8 @@ nav_order: 2
 ---
 
 <style>
+  .publications .links { display: none; }
+  .publications #kuru2026retrievalrouter .links { display: block; }
   .publications .links .btn {
     display: inline-flex;
     align-items: center;
