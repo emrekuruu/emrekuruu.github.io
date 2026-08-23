@@ -29,8 +29,8 @@ latest_posts:
     margin-top: 4rem;
     margin-bottom: 1.35rem;
   }
-  #selected-publication { margin-bottom: 0.35rem; }
-  #selected-publication + .publications { margin-top: 0.35rem; }
+  #selected-publications { margin-bottom: 0.35rem; }
+  #selected-publications + .publications { margin-top: 0.35rem; }
   .publications .links a[href*="#paper"] { font-size: 0; }
   .publications .links a[href*="#paper"]::after { content: "Paper"; font-size: 0.75rem; }
   .publications .links .btn { border-radius: 6px; }
@@ -71,7 +71,7 @@ latest_posts:
   #kuru2026retrievalrouter .links a[href*="#paper"] { font-size: 0; }
   #kuru2026retrievalrouter .links a[href*="#paper"]::after { font-size: 0.75rem; }
   #kuru2026retrievalrouter .periodical { display: none; }
-  .social .contact-icons { font-size: 3.3rem; }
+  .social .contact-icons { font-size: 3.15rem; }
   .contact-icons a[title="Hugging Face"] img {
     width: 4.6rem;
     height: 4.6rem;
@@ -87,7 +87,7 @@ I am a PhD student in Computer Science at [Institut Polytechnique de Paris](http
 - Long-horizon LLM agents
 - Information retrieval and multimodal RAG
 
-## Selected publication
+## Selected publications
 
 {% include selected_papers.liquid %}
 
